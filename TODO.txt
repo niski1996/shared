@@ -1,0 +1,22 @@
+wpf
+System.Runtime.Serialization
+nuget
+config
+entity framework
+xml
+System.Reflection
+threading
+nlog
+git tortorise
+xaml
+properties? kwadratowe nawiasy, okrągłe nawiasy
+mapping objects
+assembly
+windows forms
+forms do programu
+servis przechwytujący zdarzenia z klawiatury
+topshelf z nugeta do servisów
+code cata
+creating database
+ssms
+multithreading
