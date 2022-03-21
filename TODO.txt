@@ -20,3 +20,6 @@ code cata
 creating database
 ssms
 multithreading
+SQL srworzyc nowy serwer, podlinkowac i skopiowwac
+attributes
+reflection in c#
