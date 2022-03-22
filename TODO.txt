@@ -23,3 +23,5 @@ multithreading
 SQL srworzyc nowy serwer, podlinkowac i skopiowwac
 attributes
 reflection in c#
+dependency injection
+resources
